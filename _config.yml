@@ -20,9 +20,9 @@ topics:
     web_url: https://github.com/topics/js
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
 
-  - name: Web development
-
-  - name: App development
+  - name: PWA
+    web_url: https://github.com/topics/pwa
+    image_url: https://raw.githubusercontent.com/github/explore/698c66928eddcc6ad969b94912d7727c10229593/topics/pwa/pwa.png
 
   - name: Sass
     web_url: https://github.com/topics/sass
